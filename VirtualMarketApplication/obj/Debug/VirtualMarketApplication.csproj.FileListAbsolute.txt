@@ -1,0 +1,75 @@
+C:/Users/Buse/source/repos/VirtualMarketApplication/VirtualMarketApplication/bin/Debug/VirtualMarketApplication.exe.config
+C:/Users/Buse/source/repos/VirtualMarketApplication/VirtualMarketApplication/bin/Debug/VirtualMarketApplication.exe
+C:/Users/Buse/source/repos/VirtualMarketApplication/VirtualMarketApplication/bin/Debug/VirtualMarketApplication.pdb
+C:/Users/Buse/source/repos/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.csprojResolveAssemblyReference.cache
+C:/Users/Buse/source/repos/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.Form1.resources
+C:/Users/Buse/source/repos/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.Properties.Resources.resources
+C:/Users/Buse/source/repos/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.csproj.GenerateResource.Cache
+C:/Users/Buse/source/repos/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.csproj.CoreCompileInputs.cache
+C:/Users/Buse/source/repos/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.exe
+C:/Users/Buse/source/repos/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.pdb
+C:/Users/Buse/source/repos/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormSignUp.resources
+C:/Users/Buse/source/repos/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormHomePage.resources
+C:/Users/Buse/source/repos/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormAddPersonnel.resources
+C:/Users/Buse/source/repos/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormAdminEntry.resources
+C:/Users/Buse/source/repos/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormPersonnelPage.resources
+D:/Buse/CBU - Software Engineer/Ödevler/Veri Yapıları/VirtualMarketApplication/VirtualMarketApplication/bin/Debug/VirtualMarketApplication.exe.config
+D:/Buse/CBU - Software Engineer/Ödevler/Veri Yapıları/VirtualMarketApplication/VirtualMarketApplication/bin/Debug/VirtualMarketApplication.exe
+D:/Buse/CBU - Software Engineer/Ödevler/Veri Yapıları/VirtualMarketApplication/VirtualMarketApplication/bin/Debug/VirtualMarketApplication.pdb
+D:/Buse/CBU - Software Engineer/Ödevler/Veri Yapıları/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.csprojResolveAssemblyReference.cache
+D:/Buse/CBU - Software Engineer/Ödevler/Veri Yapıları/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.Form1.resources
+D:/Buse/CBU - Software Engineer/Ödevler/Veri Yapıları/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormAddPersonnel.resources
+D:/Buse/CBU - Software Engineer/Ödevler/Veri Yapıları/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormAdminEntry.resources
+D:/Buse/CBU - Software Engineer/Ödevler/Veri Yapıları/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormHomePage.resources
+D:/Buse/CBU - Software Engineer/Ödevler/Veri Yapıları/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormPersonnelPage.resources
+D:/Buse/CBU - Software Engineer/Ödevler/Veri Yapıları/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormSignUp.resources
+D:/Buse/CBU - Software Engineer/Ödevler/Veri Yapıları/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.Properties.Resources.resources
+D:/Buse/CBU - Software Engineer/Ödevler/Veri Yapıları/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.csproj.GenerateResource.Cache
+D:/Buse/CBU - Software Engineer/Ödevler/Veri Yapıları/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.csproj.CoreCompileInputs.cache
+D:/Buse/CBU - Software Engineer/Ödevler/Veri Yapıları/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.exe
+D:/Buse/CBU - Software Engineer/Ödevler/Veri Yapıları/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.pdb
+D:/Projeler/C#/VirtualMarketApplication/VirtualMarketApplication/bin/Debug/VirtualMarketApplication.exe.config
+D:/Projeler/C#/VirtualMarketApplication/VirtualMarketApplication/bin/Debug/VirtualMarketApplication.exe
+D:/Projeler/C#/VirtualMarketApplication/VirtualMarketApplication/bin/Debug/VirtualMarketApplication.pdb
+D:/Projeler/C#/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.csprojResolveAssemblyReference.cache
+D:/Projeler/C#/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.Form1.resources
+D:/Projeler/C#/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormAddPersonnel.resources
+D:/Projeler/C#/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormAdminEntry.resources
+D:/Projeler/C#/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormHomePage.resources
+D:/Projeler/C#/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormPersonnelPage.resources
+D:/Projeler/C#/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormSignUp.resources
+D:/Projeler/C#/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.Properties.Resources.resources
+D:/Projeler/C#/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.csproj.GenerateResource.cache
+D:/Projeler/C#/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.csproj.CoreCompileInputs.cache
+D:/Projeler/C#/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.exe
+D:/Projeler/C#/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.pdb
+D:/Projects/Project/C#/Windows Forms Application (.NET Freamwork)/VirtualMarketApplication/VirtualMarketApplication/bin/Debug/VirtualMarketApplication.exe.config
+D:/Projects/Project/C#/Windows Forms Application (.NET Freamwork)/VirtualMarketApplication/VirtualMarketApplication/bin/Debug/VirtualMarketApplication.exe
+D:/Projects/Project/C#/Windows Forms Application (.NET Freamwork)/VirtualMarketApplication/VirtualMarketApplication/bin/Debug/VirtualMarketApplication.pdb
+D:/Projects/Project/C#/Windows Forms Application (.NET Freamwork)/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.csprojAssemblyReference.cache
+D:/Projects/Project/C#/Windows Forms Application (.NET Freamwork)/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.Form1.resources
+D:/Projects/Project/C#/Windows Forms Application (.NET Freamwork)/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormAddPersonnel.resources
+D:/Projects/Project/C#/Windows Forms Application (.NET Freamwork)/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormAdminEntry.resources
+D:/Projects/Project/C#/Windows Forms Application (.NET Freamwork)/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormHomePage.resources
+D:/Projects/Project/C#/Windows Forms Application (.NET Freamwork)/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormPersonnelPage.resources
+D:/Projects/Project/C#/Windows Forms Application (.NET Freamwork)/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormSignUp.resources
+D:/Projects/Project/C#/Windows Forms Application (.NET Freamwork)/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.Properties.Resources.resources
+D:/Projects/Project/C#/Windows Forms Application (.NET Freamwork)/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.csproj.GenerateResource.cache
+D:/Projects/Project/C#/Windows Forms Application (.NET Freamwork)/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.csproj.CoreCompileInputs.cache
+D:/Projects/Project/C#/Windows Forms Application (.NET Freamwork)/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.exe
+D:/Projects/Project/C#/Windows Forms Application (.NET Freamwork)/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.pdb
+/Users/buse/Desktop/github a atılacak projeler/VirtualMarketApplication/VirtualMarketApplication/bin/Debug/VirtualMarketApplication.exe.config
+/Users/buse/Desktop/github a atılacak projeler/VirtualMarketApplication/VirtualMarketApplication/bin/Debug/VirtualMarketApplication.exe
+/Users/buse/Desktop/github a atılacak projeler/VirtualMarketApplication/VirtualMarketApplication/bin/Debug/VirtualMarketApplication.pdb
+/Users/buse/Desktop/github a atılacak projeler/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.csprojAssemblyReference.cache
+/Users/buse/Desktop/github a atılacak projeler/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.Form1.resources
+/Users/buse/Desktop/github a atılacak projeler/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormAddPersonnel.resources
+/Users/buse/Desktop/github a atılacak projeler/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormAdminEntry.resources
+/Users/buse/Desktop/github a atılacak projeler/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormHomePage.resources
+/Users/buse/Desktop/github a atılacak projeler/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormPersonnelPage.resources
+/Users/buse/Desktop/github a atılacak projeler/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.FormSignUp.resources
+/Users/buse/Desktop/github a atılacak projeler/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.Properties.Resources.resources
+/Users/buse/Desktop/github a atılacak projeler/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.csproj.GenerateResource.cache
+/Users/buse/Desktop/github a atılacak projeler/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.csproj.CoreCompileInputs.cache
+/Users/buse/Desktop/github a atılacak projeler/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.exe
+/Users/buse/Desktop/github a atılacak projeler/VirtualMarketApplication/VirtualMarketApplication/obj/Debug/VirtualMarketApplication.pdb
